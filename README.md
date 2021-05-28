@@ -1,4 +1,4 @@
-# DappCoursera
+# DappCoursera - Building Smart Contracts
 Source code for Decentralized Applications (Dapps) by University at Buffalo &amp; The State University of New York
 
 # Certification 
